@@ -1,0 +1,7 @@
+#user/testLogin
+#user/testLogin2
+#user/testProfile
+#config/testSdataSave
+config/testSdataGet
+config/testSdataGetByName
+#config/testSdataList
